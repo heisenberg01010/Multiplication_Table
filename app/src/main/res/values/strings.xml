@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiplication Table</string>
+    <string name="enter_a_number">Enter a Number</string>
+    <string name="solve">Solve</string>
+    <string name="textview">TextView</string>
+    <string name="reset">reset</string>
+</resources>
